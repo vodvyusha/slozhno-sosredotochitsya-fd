@@ -10,11 +10,14 @@
   --text-color: #353430;
   --shadow-color: var(--accent-color);
   --decor-color: #353430;
-  --rec-display: none;
+}
+
+.theme-light .header__decor {
+  display: none;
 }
 
 @media (prefers-color-scheme: light) {
-  :root.theme-light {
+  :root {
   --background-image: url("../images/cover-image-light.png");
   --accent-color: #FF8DCB;
   --theme-menu-color: #353430;
@@ -28,4 +31,8 @@
   --decor-color: #353430;
   --rec-display: none;
   }
+  
+ .header__decor {
+  display: none;
+}
 }

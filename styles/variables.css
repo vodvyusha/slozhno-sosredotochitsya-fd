@@ -20,7 +20,6 @@
   --text-width: 355px;
   --shadow-color: var(--accent-color);
   --decor-color: var(--accent-color);
-  --rec-display: inline;
 }
 
 @media (width >= 768px) {
