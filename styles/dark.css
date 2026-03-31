@@ -9,7 +9,7 @@
   --item-title-color: #000028;
   --text-color: #F1B2CE;
   --shadow-color: var(--accent-color);
-  --decor-color: var(--accent-color); 
+  --decor-color: var(--accent-color);
 }
 
 .theme-dark .header__decor {

@@ -17,7 +17,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  :root {
+  :root.theme-light {
   --background-image: url("../images/cover-image-light.png");
   --accent-color: #FF8DCB;
   --theme-menu-color: #353430;
