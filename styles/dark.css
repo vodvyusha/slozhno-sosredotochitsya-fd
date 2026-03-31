@@ -1,5 +1,6 @@
 :root.theme-dark {
   --background-image: url("../images/cover-image-dark.png");
+  --background-color: #000028;
   --accent-color: #FF0070;
   --theme-menu-color: #FF0070;
   --button-hover-border-color: #FF007066;
